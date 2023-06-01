@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Connect with me: 
+Connect with me:
+-->
 https://leetcode.com/imAnanya/
+-->
 https://www.linkedin.com/in/ananya-v-9b5553279/
