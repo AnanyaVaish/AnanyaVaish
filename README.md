@@ -21,3 +21,5 @@ Connect with me:
 - https://www.linkedin.com/in/ananya-v-9b5553279/
 - https://www.hackerrank.com/ananyavaish1007?hr_r=1
 - https://www.kaggle.com/ananyavaish
+
+Certications:
