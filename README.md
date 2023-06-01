@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, Java, Fullstack development, SQL, PHP
 - 📫 How to reach me: ananyavaish1007@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...**
-Connect with me: 
+- ⚡ Fun fact: ...
+### Connect with me: 
 https://leetcode.com/imAnanya/
 https://www.linkedin.com/in/ananya-v-9b5553279/
